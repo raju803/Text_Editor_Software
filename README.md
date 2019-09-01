@@ -1,0 +1,1 @@
+This is text eiditor software.Any file open. Any file save. Written and save any location.
